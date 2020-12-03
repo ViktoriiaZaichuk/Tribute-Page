@@ -1,2 +1,2 @@
-# Tribute-Page-freeCodeCamp-project
-freeCodeCamp project
+Tribute Page-freeCodeCamp project
+Responsive Web Design
